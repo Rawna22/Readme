@@ -2,7 +2,7 @@
 
 🚀 Developer passionate about Web, Automation & Web3  
 🌱 Learning: Solidity | Blockchain | Full-stack Dev  
-📫 Reach me: your.email@example.com  
+📫 Reach me: rawnampwr@gmail.com  
 
 ---
 
